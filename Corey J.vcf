@@ -1,1 +1,8 @@
-
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.5.1//EN
+N:J;Corey;;;
+FN:Corey J
+ORG:NFC tags;
+TEL;type=HOME;type=VOICE;type=pref:(647) 990-9746
+END:VCARD
